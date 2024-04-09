@@ -1,0 +1,98 @@
+html, body, header, footer, main, section, nav, ul, li, img, h1, h2, p, a {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    background-color: #73b455;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+/* Property details styles */
+.property-details {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.property-details img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.property-details p {
+    margin-bottom: 5px;
+}
+.property{
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+.property img{
+    width: 500px;
+    height: auto;
+    padding-bottom: 20px;
+
+}
+
+.property2{
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+.property2 img{
+    width: 500px;
+    height: auto;
+    padding-bottom: 20px;
+}
+.property3{
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+.property3 img{
+    width: 500px;
+    height: auto;
+    padding-bottom: 20px;
+
+}
+    
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
